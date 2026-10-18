@@ -66,6 +66,7 @@ See [`docs/measures.md`](docs/measures.md) for the full list. Highlights:
 
 ## 📁 Repository Structure
 
+```text
 Car_sales_analysis/
 ├── data/
 │   └── README.md
@@ -78,12 +79,14 @@ Car_sales_analysis/
 ├── .gitignore
 ├── FinalProject.pbix
 └── README.md
+```
+
 
 ## ▶️ How to Use
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
 2. Clone this repository or download it as a ZIP.
-3. Open `Car_Sales_Dashboard.pbix`.
+3. Open FinalProject.pbix in Power BI Desktop.
 4. Use the slicers and page navigator to explore.
 
 ## 👤 Author
